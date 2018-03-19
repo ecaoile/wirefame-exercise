@@ -1,0 +1,107 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+* {
+  box-sizing:border-box;
+}
+header, footer {
+  background: #525252;
+  height:260;
+  width:100%;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  margin: 30px 9.5em;
+}
+nav ul li {
+  display:inline;
+  line-height:100px;
+  padding: 0 3em;
+  color: #b3b3b3;
+}
+
+div.card {
+  float: left;
+  margin: 1em 0;
+}
+
+div#three-horizontal {
+  margin: 1em 0;
+}
+div#first-of-three {
+  margin-right:1.85em;
+}
+
+div#third-of-three {
+  margin-left:1.85em;
+}
+
+nav {
+  overflow: hidden;
+  margin: auto;
+  width: 960px;
+}
+
+nav img {
+  float: left;
+  margin: 1em 0;
+}
+
+nav ul {
+  float: left;
+}
+
+.card header {
+  background: #fff;
+  height: 2em;
+  width: auto;
+}
+
+div#first-of-two img {
+  float: left;
+}
+
+
+div#second-of-two {
+  margin-left: 32em;
+  margin-top: -26.5em;
+}
+
+
+div#bottom {
+  height: 8em;
+  margin-top:55em;
+}
+
+h2 {
+  font-family: Arial;
+  font-size:1.35em;
+  line-height:2em;
+}
+
+p {
+  font-style: italic;
+  font-size: 1.1em;
+  line-height:1.25em;
+}
+
+div#overflow-hidden
+{
+  height:22.5em;
+  overflow: hidden;
+}
+button {
+  padding:.75em 2em;
+  background:black;
+  color:white;
+  font-size:1em;
+}
