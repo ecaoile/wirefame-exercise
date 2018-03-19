@@ -1,5 +1,5 @@
 body, html {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   height: 100%;
 }
@@ -97,7 +97,8 @@ p {
 div#overflow-hidden
 {
   height:22.5em;
-  overflow: hidden;
+  overflow: scroll;
+  width:450px;
 }
 button {
   padding:.75em 2em;
