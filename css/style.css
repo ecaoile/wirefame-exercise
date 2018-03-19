@@ -26,7 +26,7 @@ nav ul li {
   display:inline;
   line-height:100px;
   padding: 0 3em;
-  color: grey;
+  color: #b3b3b3;
 }
 
 div.card {
@@ -78,7 +78,7 @@ div#second-of-two {
 
 
 div#bottom {
-  height: 10em;
+  height: 8em;
   margin-top:55em;
 }
 
